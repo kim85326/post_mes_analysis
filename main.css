@@ -1,0 +1,20 @@
+.title{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.logout{
+	margin-left: 100px;
+}
+
+
+.fb-login-button{
+	margin: 0 auto;
+}
+
+.comment_name{
+	width: 20%;
+}
+
+#result{
+	display: none;
+}
