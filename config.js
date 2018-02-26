@@ -1,7 +1,7 @@
 //連接 Facebook JavaScript SDK
 window.fbAsyncInit = function() {
   FB.init({
-    appId      : '169353010331029', //更改你的應用程式編號
+    appId      : '1762819617084102', //更改你的應用程式編號
     cookie     : true,
     xfbml      : true,
     version    : 'v2.11' //更改你的SDK 版本

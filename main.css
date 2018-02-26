@@ -18,3 +18,11 @@
 #result{
 	display: none;
 }
+
+#stop-search{
+	display: none;
+}
+
+#error{
+	color: red;
+}

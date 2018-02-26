@@ -28,7 +28,9 @@
                         <label for="">請輸入 留言關鍵字</label>
                         <input id="keyword" type="text" class="form-control">
                     </div>
-                    <button type="button" id="search" class="btn btn-primary">查詢</button>
+                    <button type="button" id="search" class="btn btn-primary">一次查詢</button>
+                    <button type="button" id="start-search" class="btn btn-primary">開啟自動更新</button>
+                    <button type="button" id="stop-search" class="btn btn-primary">停止自動更新</button>
                 </form>
                 <hr/>
                 <div id="result">
@@ -48,6 +50,7 @@
                         </tbody>
                     </table>
                 </div>
+                <div id="error"></div>
             </div>
         </div>
     </div>
